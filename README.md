@@ -46,8 +46,6 @@
 
 <br clear="both">
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
-
 ## My Skill Set  
 
 <div align="center">  
@@ -68,8 +66,6 @@
 
 <br clear="both">
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
-
 ## Connect with me  
 
 <div align="center">
@@ -85,8 +81,6 @@
 </div>  
 
 <br clear="both">
-
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
 
 ## Support Me
 
