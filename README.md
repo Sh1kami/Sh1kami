@@ -42,7 +42,7 @@
 
 <div align="center">
   
-![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=OpenQRCode&theme=light)
+![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=CuttyGirl69&theme=dark)
 
 </div>
 
