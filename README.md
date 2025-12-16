@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
     <picture>
@@ -48,7 +48,7 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
 
-## 🛠️ My Skill Set  
+## My Skill Set  
 
 <div align="center">  
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" /></a>  
@@ -70,11 +70,11 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
 
-## 🌐 Connect with me  
+## Connect with me  
 
 <div align="center">
     <a href="https://twitter.com/shjkami" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/twitter/FF99EE" alt="Twitter" height="50" />
+        <img style="margin: 5px" src="https://cdn.simpleicons.org/x/FF99EE" alt="Twitter" height="50" />
     </a>
     <a href="https://instagram.com/shikami_ss" target="_blank">
         <img style="margin: 5px" src="https://cdn.simpleicons.org/instagram/FF99EE" alt="Instagram" height="50" />
@@ -88,7 +88,7 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
 
-## 💝 Support Me
+## Support Me
 
 <div align="center">
     <a href="https://paypal.me/zanons@null.net" target="_blank">
