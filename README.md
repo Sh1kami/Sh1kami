@@ -8,41 +8,7 @@
 
 <br clear="both">
 
-## My Skill Set  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css/FF99EE" alt="CSS3" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/FF99EE" alt="JavaScript" height="75" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/typescript/FF99EE" alt="TypeScript" height="75" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/sass/FF99EE" alt="Sass" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/tailwindcss/FF99EE" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/postgresql/FF99EE" alt="PostgreSQL" height="75" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/prisma/FF99EE" alt="Prisma" height="75" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nextdotjs/FF99EE" alt="NextJS" height="75" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nestjs/FF99EE" alt="NestJS" height="75" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/react/FF99EE" alt="React" height="75" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mui/FF99EE" alt="Material UI" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nodedotjs/FF99EE" alt="Node.js" height="75" /></a>  
-</div>
-
-<br clear="both">
-
-## Connect with me  
-<div align="center">
-<a href="https://twitter.com/shjkami" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=FF99EE alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/shikami_ss" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=FF99EE alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Sh1kami" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=FF99EE alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br clear="both">
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
     <picture>
@@ -75,30 +41,65 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sh1kami&color=FF99EE&style=flat-square" align="center" />
-</div>  
-  
+    <img src="https://komarev.com/ghpvc/?username=sh1kami&color=FF99EE&style=flat-square" align="center" />
+</div>
+
 <br clear="both">
 
-## Support Me
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
+
+## 🛠️ My Skill Set  
+
+<div align="center">  
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" /></a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css/FF99EE" alt="CSS3" height="75" /></a>  
+    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/FF99EE" alt="JavaScript" height="75" /></a>  
+    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/typescript/FF99EE" alt="TypeScript" height="75" /></a>  
+    <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/sass/FF99EE" alt="Sass" height="75" /></a>  
+    <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/tailwindcss/FF99EE" alt="Tailwind CSS" height="75" /></a>  
+    <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/postgresql/FF99EE" alt="PostgreSQL" height="75" /></a>  
+    <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/prisma/FF99EE" alt="Prisma" height="75" /></a>  
+    <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nextdotjs/FF99EE" alt="NextJS" height="75" /></a>  
+    <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nestjs/FF99EE" alt="NestJS" height="75" /></a>  
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/react/FF99EE" alt="React" height="75" /></a>  
+    <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mui/FF99EE" alt="Material UI" height="75" /></a>  
+    <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nodedotjs/FF99EE" alt="Node.js" height="75" /></a>  
+</div>
+
+<br clear="both">
+
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
+
+## 🌐 Connect with me  
 
 <div align="center">
-            <a href="https://paypal.me/zanons@null.net" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal&color=FF99EE" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/shikami" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee&color=FF99EE" 
-                    align="center"
-                />
-            </a>
-            <a href="https://ko-fi.com/shikami" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi&color=FF99EE" 
-                    align="center"
-                />
-            </a></div>
+    <a href="https://twitter.com/shjkami" target="_blank">
+        <img style="margin: 5px" src="https://cdn.simpleicons.org/twitter/FF99EE" alt="Twitter" height="50" />
+    </a>
+    <a href="https://instagram.com/shikami_ss" target="_blank">
+        <img style="margin: 5px" src="https://cdn.simpleicons.org/instagram/FF99EE" alt="Instagram" height="50" />
+    </a>
+    <a href="https://github.com/Sh1kami" target="_blank">
+        <img style="margin: 5px" src="https://cdn.simpleicons.org/github/FF99EE" alt="GitHub" height="50" />
+    </a>  
+</div>  
+
+<br clear="both">
+
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #FF99EE, transparent); margin: 2rem 0;">
+
+## 💝 Support Me
+
+<div align="center">
+    <a href="https://paypal.me/zanons@null.net" target="_blank">
+        <img style="margin: 5px" src="https://cdn.simpleicons.org/paypal/FF99EE" alt="PayPal" height="50" />
+    </a>
+    <a href="https://www.buymeacoffee.com/shikami" target="_blank">
+        <img style="margin: 5px" src="https://cdn.simpleicons.org/buymeacoffee/FF99EE" alt="Buy Me a Coffee" height="50" />
+    </a>
+    <a href="https://ko-fi.com/shikami" target="_blank">
+        <img style="margin: 5px" src="https://cdn.simpleicons.org/kofi/FF99EE" alt="Ko-fi" height="50" />
+    </a>
+</div>
+
 <br clear="both">
