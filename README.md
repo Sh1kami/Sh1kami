@@ -69,6 +69,9 @@
 ## Connect with me  
 
 <div align="center">
+    <a href="https://t.me/sh1kami" target="_blank">
+        <img style="margin: 5px" src="https://cdn.simpleicons.org/telegram/FF99EE" alt="telegram" height="50" />
+    </a>
     <a href="https://twitter.com/shjkami" target="_blank">
         <img style="margin: 5px" src="https://cdn.simpleicons.org/x/FF99EE" alt="Twitter" height="50" />
     </a>
@@ -85,9 +88,6 @@
 ## Support Me
 
 <div align="center">
-    <a href="https://t.me/sh1kami" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/telegram/FF99EE" alt="telegram" height="50" />
-    </a>
     <a href="https://paypal.me/zanons@null.net" target="_blank">
         <img style="margin: 5px" src="https://cdn.simpleicons.org/paypal/FF99EE" alt="PayPal" height="50" />
     </a>
