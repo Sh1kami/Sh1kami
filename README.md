@@ -41,7 +41,9 @@
 <br clear="both">
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=sh1kami&color=FF99EE&style=flat-square" align="center" />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=sh1kami&color=FF99EE&style=for-the-badge&label=PROFILE+VIEWS&logo=eye&logoColor=FF99EE)
+
 </div>
 
 <br clear="both">
