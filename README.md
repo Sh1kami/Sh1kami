@@ -6,16 +6,14 @@
  <img src="https://i.gifer.com/1abF.gif" style="position:fixed; width:100vw;" />
 </p>
 
-<br/>  
-
 ## My Skill Set  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>   
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a> 
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="75" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
@@ -28,6 +26,8 @@
 
 <br/>  
 
+
+## Connect with me  
 <div align="center">
 <a href="https://twitter.com/shjkami" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -40,17 +40,21 @@
 </a>  
 </div>  
   
+
 <br/>  
 
+
+## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sh1kami&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1kami&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sh1kami&&style=flat-square" align="center" />
 </div>  
+  
 
 <br/>  
 
