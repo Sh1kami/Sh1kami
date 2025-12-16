@@ -42,7 +42,6 @@
 
 </div>
 
-
 <div align="center">  
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css/FF99EE" alt="CSS3" height="75" /></a>  
@@ -59,6 +58,8 @@
     <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nodedotjs/FF99EE" alt="Node.js" height="75" /></a>  
 </div>
 
+<br clear="both">
+
 <div align="center">
     <a href="https://t.me/sh1kami" target="_blank">
         <img style="margin: 5px" src="https://cdn.simpleicons.org/telegram/FF99EE" alt="telegram" height="50" />
@@ -73,6 +74,8 @@
         <img style="margin: 5px" src="https://cdn.simpleicons.org/github/FF99EE" alt="GitHub" height="50" />
     </a>  
 </div>  
+
+<br clear="both">
 
 <div align="center">
     <a href="https://paypal.me/zanons@null.net" target="_blank">
