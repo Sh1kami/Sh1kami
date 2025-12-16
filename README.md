@@ -42,7 +42,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=sh1kami&color=FF99EE&style=for-the-badge&label=PROFILE+VIEWS&logo=eye&logoColor=FF99EE)
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/sh1kami/sh1kami&query=value&label=👁️+PROFILE+VIEWS&color=FF99EE&style=for-the-badge&logo=github&logoColor=FF99EE&labelColor=0d1117)
 
 </div>
 
