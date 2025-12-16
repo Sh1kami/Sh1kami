@@ -11,16 +11,7 @@
 ## My Skill Set  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" /></a>  
-<img
-  src="https://www.svgrepo.com/show/508795/css3-02.svg"
-  height="75"
-  style="
-    margin:10px;
-    filter: invert(77%) sepia(31%) saturate(748%) hue-rotate(282deg);
-  "
->
-
- 
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d989dbe5e2826b6b682d7d4a2555c1d7ff5/icons/CSS.svg" alt="CSS3" height="75" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/FF99EE" alt="JavaScript" height="75" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/typescript/FF99EE" alt="TypeScript" height="75" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/sass/FF99EE" alt="Sass" height="75" /></a>  
