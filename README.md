@@ -42,6 +42,10 @@
 
 </div>
 
+<br clear="both">
+
+## 🛠️ My Skill Set  
+
 <div align="center">  
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css/FF99EE" alt="CSS3" height="75" /></a>  
@@ -60,32 +64,40 @@
 
 <br clear="both">
 
+<hr style="border: none; height: 1px; background: #FF99EE; opacity: 0.3; margin: 2rem 0;">
+
+## 🌐 Connect with me  
+
 <div align="center">
     <a href="https://t.me/sh1kami" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/telegram/FF99EE" alt="telegram" height="50" />
+        <img src="https://cdn.simpleicons.org/telegram/FF99EE" alt="telegram" height="50" />
     </a>
     <a href="https://twitter.com/shjkami" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/x/FF99EE" alt="Twitter" height="50" />
+        <img src="https://cdn.simpleicons.org/x/FF99EE" alt="Twitter" height="50" />
     </a>
     <a href="https://instagram.com/shikami_ss" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/instagram/FF99EE" alt="Instagram" height="50" />
+        <img src="https://cdn.simpleicons.org/instagram/FF99EE" alt="Instagram" height="50" />
     </a>
     <a href="https://github.com/Sh1kami" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/github/FF99EE" alt="GitHub" height="50" />
+        <img src="https://cdn.simpleicons.org/github/FF99EE" alt="GitHub" height="50" />
     </a>  
 </div>  
 
 <br clear="both">
 
+<hr style="border: none; height: 1px; background: #FF99EE; opacity: 0.3; margin: 2rem 0;">
+
+## 💝 Support Me
+
 <div align="center">
     <a href="https://paypal.me/zanons@null.net" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/paypal/FF99EE" alt="PayPal" height="50" />
+        <img src="https://cdn.simpleicons.org/paypal/FF99EE" alt="PayPal" height="50" />
     </a>
     <a href="https://www.buymeacoffee.com/shikami" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/buymeacoffee/FF99EE" alt="Buy Me a Coffee" height="50" />
+        <img src="https://cdn.simpleicons.org/buymeacoffee/FF99EE" alt="Buy Me a Coffee" height="50" />
     </a>
     <a href="https://ko-fi.com/shikami" target="_blank">
-        <img style="margin: 5px" src="https://cdn.simpleicons.org/kofi/FF99EE" alt="Ko-fi" height="50" />
+        <img src="https://cdn.simpleicons.org/kofi/FF99EE" alt="Ko-fi" height="50" />
     </a>
 </div>
 
