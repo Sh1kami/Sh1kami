@@ -6,10 +6,6 @@
  <img src="https://i.gifer.com/1abF.gif" style="position:fixed; width:100vw;" />
 </p>
 
-<p align="center" width="100%">
- <img src="https://media1.tenor.com/m/AOdIxLQUvVcAAAAd/pink-aesthetic.gif" style="position:fixed; width:100vw;" />
-</p>
-
 <br/>  
 
 ## My Skill Set  
@@ -31,3 +27,53 @@
 </div>  
 
 <br/>  
+
+<div align="center">
+<a href="https://twitter.com/shjkami" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/shikami_ss" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Sh1kami" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sh1kami&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sh1kami&&style=flat-square" align="center" />
+</div>  
+
+<br/>  
+
+<div align="center">
+            <a href="https://paypal.me/zanons@null.net" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/shikami" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+            <a href="https://ko-fi.com/shikami" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
