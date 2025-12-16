@@ -11,7 +11,7 @@
 ## My Skill Set  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="filter: invert(69%) sepia(55%) saturate(2136%) hue-rotate(280deg) brightness(107%) contrast(101%);" alt="CSS3" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos/css-3.svg?color=ff99ee" alt="CSS3" height="75" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/FF99EE" alt="JavaScript" height="75" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/typescript/FF99EE" alt="TypeScript" height="75" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/sass/FF99EE" alt="Sass" height="75" /></a>  
@@ -23,7 +23,7 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/react/FF99EE" alt="React" height="75" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mui/FF99EE" alt="Material UI" height="75" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nodedotjs/FF99EE" alt="Node.js" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="filter: invert(69%) sepia(55%) saturate(2136%) hue-rotate(280deg) brightness(107%) contrast(101%);" alt="Photoshop" height="75" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos/adobe-photoshop.svg?color=ff99ee" alt="Photoshop" height="75" /></a>  
 </div>
 
 <br clear="both">
