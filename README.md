@@ -44,7 +44,6 @@
 
 ## GitHub Stats
 
-<!-- Карточка основной статистики -->
 <div align="center">
     <picture>
         <source 
@@ -59,7 +58,6 @@
     </picture>
 </div>
 
-<!-- Карточка языков -->
 <div align="center">
     <picture>
         <source 
@@ -81,6 +79,8 @@
 </div>  
   
 <br clear="both">
+
+## Support Me
 
 <div align="center">
             <a href="https://paypal.me/zanons@null.net" target="_blank" style="display: inline-block;">
