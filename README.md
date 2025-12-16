@@ -6,6 +6,9 @@
  <p align="center" width="100%">
  <img src="https://i.gifer.com/1abF.gif" style="position:fixed; width:100;" />
 </p>
+</div>
+
+<div align="center">
     <picture>
         <source 
             srcset="https://github-readme-stats.vercel.app/api?username=sh1kami&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=FF99EE&text_color=FF99EE&icon_color=FF99EE&bg_color=0d1117&ring_color=FF99EE"
