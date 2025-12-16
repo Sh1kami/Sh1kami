@@ -10,48 +10,20 @@
 
 ## My Skill Set  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" />
-</a>  
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/css3/FF99EE" alt="CSS3" height="75" />
-</a>  
-<a href="https://www.javascript.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/FF99EE" alt="JavaScript" height="75" />
-</a>  
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/typescript/FF99EE" alt="TypeScript" height="75" />
-</a>  
-<a href="https://sass-lang.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/sass/FF99EE" alt="Sass" height="75" />
-</a>  
-<a href="https://www.tailwindcss.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/tailwindcss/FF99EE" alt="Tailwind CSS" height="75" />
-</a>  
-<a href="https://www.postgresql.org/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/postgresql/FF99EE" alt="PostgreSQL" height="75" />
-</a>  
-<a href="https://www.prisma.io/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/prisma/FF99EE" alt="Prisma" height="75" />
-</a>  
-<a href="https://nextjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/nextdotjs/FF99EE" alt="NextJS" height="75" />
-</a>  
-<a href="https://nestjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/nestjs/FF99EE" alt="NestJS" height="75" />
-</a>  
-<a href="https://reactjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/react/FF99EE" alt="React" height="75" />
-</a>  
-<a href="https://mui.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/mui/FF99EE" alt="Material UI" height="75" />
-</a>  
-<a href="https://nodejs.org/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/nodedotjs/FF99EE" alt="Node.js" height="75" />
-</a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-  <img style="margin: 10px" src="https://cdn.simpleicons.org/adobephotoshop/FF99EE" alt="Photoshop" height="75" />
-</a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg?color=FF99EE" alt="HTML5" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg?color=FF99EE" alt="CSS3" height="75" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg?color=FF99EE" alt="JavaScript" height="75" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg?color=FF99EE" alt="TypeScript" height="75" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg?color=FF99EE" alt="Sass" height="75" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg?color=FF99EE" alt="Tailwind CSS" height="75" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg?color=FF99EE" alt="PostgreSQL" height="75" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg?color=FF99EE" alt="Prisma" height="75" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg?color=FF99EE" alt="NextJS" height="75" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg?color=FF99EE" alt="NestJS" height="75" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg?color=FF99EE" alt="React" height="75" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg?color=FF99EE" alt="Material UI" height="75" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg?color=FF99EE" alt="Node.js" height="75" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg?color=FF99EE" alt="Photoshop" height="75" /></a>  
 </div>
 
 <br clear="both">
