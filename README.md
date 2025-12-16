@@ -43,10 +43,37 @@
   
 <br clear="both">
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sh1kami&show_icons=true&count_private=true&hide_border=true" align="center" media="(prefers-color-scheme: dark) /></div>  
+## GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1kami&hide_border=true&layout=compact" align="center" /></div>  
+<!-- Карточка основной статистики -->
+<div align="center">
+    <picture>
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=sh1kami&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=ffffff&text_color=cccccc&icon_color=58a6ff&bg_color=0d1117"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=sh1kami&show_icons=true&count_private=true&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=sh1kami&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" align="center" />
+    </picture>
+</div>
+
+<!-- Карточка языков -->
+<div align="center">
+    <picture>
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1kami&hide_border=true&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0d1117"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1kami&hide_border=true&layout=compact"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1kami&hide_border=true&layout=compact" alt="Top Languages" align="center" />
+    </picture>
+</div>
 
 <br clear="both">
 
