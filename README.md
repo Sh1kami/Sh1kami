@@ -1,3 +1,4 @@
+<br clear="both">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Marck+Script&size=72&pause=1000&color=FF99EE&center=true&vCenter=true&width=1000&height=100&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%AF+Sh1kami;%D0%A0%D0%B0%D0%B4+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C!)](https://git.io/typing-svg)
 
@@ -25,8 +26,7 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" /></a>  
 </div>  
 
-<br/>  
-
+<br clear="both">
 
 ## Connect with me  
 <div align="center">
@@ -41,23 +41,20 @@
 </a>  
 </div>  
   
-
-<br/>  
-
+<br clear="both">
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sh1kami&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1kami&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
+<br clear="both">
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sh1kami&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
+<br clear="both">
 
 <div align="center">
             <a href="https://paypal.me/zanons@null.net" target="_blank" style="display: inline-block;">
@@ -78,7 +75,7 @@
                     align="center"
                 />
             </a></div>
-<br />
+<br clear="both">
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
