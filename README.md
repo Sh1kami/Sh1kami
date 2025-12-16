@@ -1,1 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Marck+Script&size=40&pause=1000&color=FF99EE&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%F0%9F%91%8B+%D0%AF+Sh1kami;%D0%A0%D0%B0%D0%B4+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C!)](https://git.io/typing-svg)
+
+<div align="center">
+  <img height="300" width="600" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc20zcTVpMXF2aWp0ajRhODcwYmJmMnpoaDRuOTA4ajNqZzQ1aGJhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2JiHcUyeev5u/giphy.gif)"  />
+</div>
