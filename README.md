@@ -6,10 +6,6 @@
  <img src="https://i.gifer.com/1abF.gif" style="position:fixed; width:100vw;" />
 </p>
 
-<br clear="both">
-
-## GitHub Stats
-
 <div align="center">
     <picture>
         <source 
