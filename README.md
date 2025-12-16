@@ -11,7 +11,7 @@
 ## My Skill Set  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/FF99EE" alt="HTML5" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos/css-3.svg?color=ff99ee" alt="CSS3" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg?color=FF99EE" alt="CSS3" height="75" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/FF99EE" alt="JavaScript" height="75" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/typescript/FF99EE" alt="TypeScript" height="75" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/sass/FF99EE" alt="Sass" height="75" /></a>  
