@@ -36,13 +36,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1kami&hide_border=true&layout=compact&title_color=FF99EE" alt="Top Languages" align="center" />
     </picture>
 </div>
-
-<br clear="both">
-
-
-<br clear="both">
-
-<div align="center">
  
 ![Profile Views](https://komarev.com/ghpvc/?username=sh1kami&color=FF99EE&style=for-the-badge&label=VISITORS&labelColor=0d1117&logo=github&logoColor=FF99EE)
 </div>
